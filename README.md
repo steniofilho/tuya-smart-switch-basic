@@ -6,6 +6,7 @@ Tuya Smart Switch is a Sonoff Basic clone that uses chip TYWE2S and it has a ESP
 Imagem do TYWE2S...
 
 Pin definition
+https://fccid.io/2ANDL-TYWE2S/User-Manual/Users-Manual-3596121#download
 
 Tabela com pinout
 
