@@ -9,16 +9,16 @@ Pin definition
 
 Tabela com pinout
 
-------
-GPIO 0  - Not connected
-GPIO 2  - Not used
-GPIO 4  - LED (status)
-GPIO 5  - Not used
-GPIO 12 - Relay switch
-GPIO 13 - Button
-GPIO 14 - Not used
+| GPIO | use |
+|---------|---------------|
+| GPIO 0  | Not connected |
+| GPIO 2  | Not used |
+| GPIO 4  | LED (status) |
+| GPIO 5  | Not used |
+| GPIO 12 | Relay switch |
+| GPIO 13 | Button |
+| GPIO 14 | Not used |
 
--------
 
 Colocar foto da board do switch
 indicar na foto onde soldar para upload de firmware
